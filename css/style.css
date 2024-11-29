@@ -16,7 +16,7 @@ body {
 
 
 .cover-site {
-    min-width: 100%;
+    min-width: 80%;
     min-height: 100%;
     position: fixed;
     background: url('../img/bg_site.jpg') no-repeat;
