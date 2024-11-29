@@ -1,7 +1,7 @@
 {
   "name": "Radio Power",
-  "short_name": "Radiopower",
-  "start_url": "https://stream.zeno.fm/cxf1r8zukyhuv",
+  "short_name": "Radio Power",
+  "start_url": "https://api.zeno.fm/mounts/metadata/subscribe/cxf1r8zukyhuv",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
